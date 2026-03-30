@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/Depado/ginprom v1.8.3
 	github.com/andybalholm/brotli v1.2.0
-	github.com/gin-contrib/cors v1.7.6
+	github.com/gin-contrib/cors v1.7.7
 	github.com/twpayne/go-geom v1.6.1
 )
 
