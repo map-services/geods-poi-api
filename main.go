@@ -3,10 +3,11 @@ package main
 import (
 	"database/sql"
 	"fmt"
-	"geods-poi-api/internal"
 	"log"
 	"os"
 	"time"
+
+	"github.com/map-servuces/geods-poi-api/internal"
 
 	"github.com/Depado/ginprom"
 	"github.com/aurowora/compress"

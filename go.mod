@@ -1,4 +1,4 @@
-module geods-poi-api
+module github.com/map-servuces/geods-poi-api
 
 go 1.26
 
