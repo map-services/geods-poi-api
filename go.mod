@@ -68,7 +68,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.4.3 // indirect
 	github.com/spf13/cobra v1.10.2
-	github.com/tavsec/gin-healthcheck v1.7.16
+	github.com/tavsec/gin-healthcheck v1.7.17
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.3.2 // indirect
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
