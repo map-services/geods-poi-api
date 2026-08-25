@@ -21,7 +21,7 @@ require (
 	github.com/influxdata/influxdb-client-go/v2 v2.14.0 // indirect
 	github.com/influxdata/line-protocol v0.0.0-20210922203350-b1ad95c89adf // indirect
 	github.com/klauspost/compress v1.19.2 // indirect
-	github.com/montanaflynn/stats v0.12.3 // indirect
+	github.com/montanaflynn/stats v0.12.4 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/oapi-codegen/runtime v1.7.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
@@ -31,7 +31,7 @@ require (
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.61.0 // indirect
-	github.com/rabbitmq/amqp091-go v1.13.0 // indirect
+	github.com/rabbitmq/amqp091-go v1.14.0 // indirect
 	github.com/redis/go-redis/v9 v9.22.0 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
@@ -68,7 +68,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.4.3 // indirect
 	github.com/spf13/cobra v1.10.2
-	github.com/tavsec/gin-healthcheck v1.7.16
+	github.com/tavsec/gin-healthcheck v1.7.17
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.3.2 // indirect
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
