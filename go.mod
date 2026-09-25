@@ -7,7 +7,7 @@ require (
 	github.com/andybalholm/brotli v1.2.4
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
-	github.com/gin-contrib/cors v1.7.8
+	github.com/gin-contrib/cors v1.7.9
 	github.com/gin-gonic/gin v1.12.0
 	github.com/joho/godotenv v1.5.1
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
