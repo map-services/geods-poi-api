@@ -14,7 +14,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.52
 	github.com/spf13/cobra v1.10.2
 	github.com/tavsec/gin-healthcheck v1.7.18
-	github.com/twpayne/go-geom v1.6.1
+	github.com/twpayne/go-geom v1.7.0
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
 )
 
